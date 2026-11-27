@@ -1,0 +1,21 @@
+Enrollment: 900; weighted attendance: 71.03%
+Estimated daily absences: 260.7
+Lowest three schools: 39.3% of estimated absences
+Attendance vs score, Pearson r: 0.950
+Attendance vs km, Pearson r: -0.958
+Attendance vs visits, Pearson r: -0.668
+Student   Points   Action
+ST009     88.91   case_review
+ST004     75.67   case_review
+ST012     73.55   home_visit
+ST007     67.21   home_visit
+ST006     51.55   teacher_call
+ST002     47.58   teacher_call
+ST011     46.24   teacher_call
+ST003     23.63   monitor
+ST010     22.03   monitor
+ST005      6.64   monitor
+ST008      2.50   monitor
+ST001      2.50   monitor
+Physical ceiling: 100 visits; funded ceiling: 100 visits
+With 10% reserve: 90 planned visits, INR 22,500 planned spend

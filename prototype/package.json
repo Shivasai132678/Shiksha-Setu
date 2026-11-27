@@ -1,0 +1,17 @@
+{
+  "name": "shiksha-setu-outreach-desk",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "esbuild src/main.jsx --bundle --minify --outfile=dist/register.js",
+    "start": "python3 -m http.server 4174 --bind 127.0.0.1"
+  },
+  "dependencies": {
+    "react": "19.2.5",
+    "react-dom": "19.2.5",
+    "lucide-react": "0.468.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12"
+  }
+}
